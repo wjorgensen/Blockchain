@@ -24,7 +24,7 @@ For getting the full chain that has been mined
 
 For registering a node
 -Format {
-    "nodes": ["http://127.0.0.1:adress"]
+    "nodes": ["http://127.0.0.1:address"]
 }
 
 /nodes/resolve [GET]
